@@ -1,0 +1,1 @@
+Average time for writers to access CS: 4134.07 milliseconds
